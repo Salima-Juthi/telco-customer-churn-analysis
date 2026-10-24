@@ -104,7 +104,7 @@ The Power BI overview reports 1,869 churned customers and a 26.54% churn rate. T
 - SQL analysis scripts: [`sql/`](sql/)
 - Power BI report: [`PowerBI/`](PowerBI/)
 - Dataset information: [`Dataset/README.md`](Dataset/README.md)
-- Detailed analysis notes: [`Documentation/Project_2_notes.md`](Documentation/Project_2_notes.md)
+- Detailed analysis notes: - [`Churned_Cust_project_notes.md`](Documentation/Churned_Cust_project_notes.md)
 - Dashboard screenshots: [`Screenshots/`](Screenshots/)
 
 ## 👩‍💻 Skills Demonstrated
