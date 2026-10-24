@@ -82,7 +82,7 @@ telco-customer-churn-analysis/
 - **sql/** — SQL queries for validation and customer churn analysis.
 - **PowerBI/** — Power BI report file (`.pbix`).
 - **Dataset/** — Dataset access instructions and source information.
-- **Documentation/** — Detailed project notes, findings, and analysis.
+- **Documentation/** — - Detailed analysis notes: [`Churned_Cust_project_notes.md`](Documentation/Churned_Cust_project_notes.md)
 - **Screenshots/** — Dashboard screenshots displayed in this README.
 
 ## 🔍 Data Validation & Methodology
